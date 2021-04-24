@@ -1,0 +1,293 @@
+[
+    {
+      "id": "10",
+      "address_line": "75 Lower Simcoe St",
+      "city": "Toronto",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "M5J 3A6",
+      "latitude": "43.643030",
+      "longitude": "-79.383790"
+    },
+    {
+      "id": "100",
+      "address_line": "65 Van Horne Avenue",
+      "city": "Dryden",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "P8N 2B2",
+      "latitude": "49.78181827013056",
+      "longitude": "-92.83601760864259"
+    },
+    {
+      "id": "101",
+      "address_line": "266 Saint Charles Street",
+      "city": "Dryden",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "P8N 3G9",
+      "latitude": "49.77871460154498",
+      "longitude": "-92.821683883667"
+    },
+    {
+      "id": "102",
+      "address_line": "109 Princess Street",
+      "city": "Dryden",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "P8N 1E2",
+      "latitude": "49.78248331610508",
+      "longitude": "-92.83721923828126"
+    },
+    {
+      "id": "103",
+      "address_line": "174 Casimir Avenue",
+      "city": "Dryden",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "P8N 2J1",
+      "latitude": "49.77622043807853",
+      "longitude": "-92.83284187316896"
+    },
+    {
+      "id": "104",
+      "address_line": "Hwy 17",
+      "city": "Dryden",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "P8N 2X3",
+      "latitude": "49.79384310814411",
+      "longitude": "-92.84726142883301"
+    },
+    {
+      "id": "105",
+      "address_line": "216 Ontario St",
+      "city": "Kingston",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "K7L 2Z3",
+      "latitude": "44.2298",
+      "longitude": "-76.4803"
+    },
+    {
+      "id": "106",
+      "address_line": "137 Stenton Ave",
+      "city": "Blue Bell",
+      "state": "PA",
+      "country": "US",
+      "postal_code": "19422",
+      "latitude": "40.128774",
+      "longitude": "-75.259206"
+    },
+    {
+      "id": "107",
+      "address_line": "166 Brock St",
+      "city": "Kingston",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "K7L 5G2",
+      "latitude": "44.23062509772773",
+      "longitude": "-76.48604393005371"
+    },
+    {
+      "id": "108",
+      "address_line": "166 Brock St",
+      "city": "Kingston",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "K7L 5G2",
+      "latitude": "44.23062509772773",
+      "longitude": "-76.48604393005371"
+    },
+    {
+      "id": "109",
+      "address_line": "270 King St E",
+      "city": "Kingston",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "K7L 3B2",
+      "latitude": "44.2293796905524",
+      "longitude": "-76.48294329643251"
+    },
+    {
+      "id": "11",
+      "address_line": "25 Cooper Sq",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "postal_code": "10003",
+      "latitude": "40.727820",
+      "longitude": "-73.990770"
+    },
+    {
+      "id": "110",
+      "address_line": "261 Johnson St",
+      "city": "Kingston",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "K7L 3J3",
+      "latitude": "44.23119493959978",
+      "longitude": "-76.48979571182282"
+    },
+    {
+      "id": "111",
+      "address_line": "Menchie s, 241 Princess St",
+      "city": "Kingston",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "K7L 3M1",
+      "latitude": "44.23247778433073",
+      "longitude": "-76.48720264434816"
+    },
+    {
+      "id": "112",
+      "address_line": "81 Colborne St",
+      "city": "Kingston",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "K7K 1C7",
+      "latitude": "44.23443803237946",
+      "longitude": "-76.49018526077272"
+    },
+    {
+      "id": "113",
+      "address_line": "48 7 Ave",
+      "city": "Kingston",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "K7K 2M4",
+      "latitude": "44.24726901762558",
+      "longitude": "-76.5002956800163"
+    },
+    {
+      "id": "114",
+      "address_line": "48 7 Ave",
+      "city": "Kingston",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "K7K 2M4",
+      "latitude": "44.24726901762558",
+      "longitude": "-76.5002956800163"
+    },
+    {
+      "id": "115",
+      "address_line": "136 Powley Street,",
+      "city": "Orillia",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "L3V 2W3",
+      "latitude": "44.6031",
+      "longitude": "-79.423"
+    },
+    {
+      "id": "116",
+      "address_line": "255 Mississaga Street West,",
+      "city": "Orillia",
+      "state": "ON",
+      "country": "CA",
+      "postal_code": "L3V 3E8",
+      "latitude": "44.603790623044276",
+      "longitude": "-79.4295644760132"
+    },
+    {
+      "id": "117",
+      "address_line": "5th Avenue East,",
+      "city": "Brooks",
+      "state": "AB",
+      "country": "CA",
+      "postal_code": "T1R 0W3",
+      "latitude": "50.5704",
+      "longitude": "-111.8925"
+    },
+    {
+      "id": "118",
+      "address_line": "415 4 Avenue East,",
+      "city": "Brooks",
+      "state": "AB",
+      "country": "CA",
+      "postal_code": "T1R 0G7",
+      "latitude": "50.56756561473168",
+      "longitude": "-111.89111709594728"
+    },
+    {
+      "id": "119",
+      "address_line": "879 3 Street W",
+      "city": "Brooks",
+      "state": "AB",
+      "country": "CA",
+      "postal_code": "T1R 1A9",
+      "latitude": "50.576696309543614",
+      "longitude": "-111.90060138702394"
+    },
+    {
+      "id": "12",
+      "address_line": "214 Franklin St",
+      "city": "Brooklyn",
+      "state": "NY",
+      "country": "US",
+      "postal_code": "11222",
+      "latitude": "40.733070",
+      "longitude": "-73.957840"
+    },
+    {
+      "id": "120",
+      "address_line": "276 Lake Stafford Dr E",
+      "city": "Brooks",
+      "state": "AB",
+      "country": "CA",
+      "postal_code": "T1R 0L7",
+      "latitude": "50.57620575003491",
+      "longitude": "-111.88347816467287"
+    },
+    {
+      "id": "121",
+      "address_line": "248 Upland Ave W",
+      "city": "Brooks",
+      "state": "AB",
+      "country": "CA",
+      "postal_code": "T1R 1K1",
+      "latitude": "50.58623639921512",
+      "longitude": "-111.9039883464575"
+    },
+    {
+      "id": "122",
+      "address_line": "520 W Skippack Pike",
+      "city": "Blue Bell",
+      "state": "PA",
+      "country": "US",
+      "postal_code": "19422",
+      "latitude": "40.149623",
+      "longitude": "-75.261804"
+    },
+    {
+      "id": "123",
+      "address_line": "901 Morris Rd",
+      "city": "Blue Bell",
+      "state": "PA",
+      "country": "US",
+      "postal_code": "19422",
+      "latitude": "40.170576",
+      "longitude": "-75.267219"
+    },
+    {
+      "id": "124",
+      "address_line": "241 Township Line Rd",
+      "city": "North Wales",
+      "state": "PA",
+      "country": "US",
+      "postal_code": "19454",
+      "latitude": "40.189312",
+      "longitude": "-75.286017"
+    },
+    {
+      "id": "125",
+      "address_line": "15 Douglas Crt W",
+      "city": "Brooks",
+      "state": "AB",
+      "country": "CA",
+      "postal_code": "T1R 1N2",
+      "latitude": "50.56730090891538",
+      "longitude": "-111.90973531454803"
+    }
+    
+  ]

@@ -1,0 +1,1002 @@
+[
+	{
+		"id" : "10",
+		"address_line" : "75 Lower Simcoe St",
+		"city" : "Toronto",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "M5J 3A6",
+		"latitude" : "43.643030",
+		"longitude" : "-79.383790"
+	},
+	{
+		"id" : "100",
+		"address_line" : "65 Van Horne Avenue",
+		"city" : "Dryden",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "P8N 2B2",
+		"latitude" : "49.78181827013056",
+		"longitude" : "-92.83601760864259"
+	},
+	{
+		"id" : "101",
+		"address_line" : "266 Saint Charles Street",
+		"city" : "Dryden",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "P8N 3G9",
+		"latitude" : "49.77871460154498",
+		"longitude" : "-92.821683883667"
+	},
+	{
+		"id" : "102",
+		"address_line" : "109 Princess Street",
+		"city" : "Dryden",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "P8N 1E2",
+		"latitude" : "49.78248331610508",
+		"longitude" : "-92.83721923828126"
+	},
+	{
+		"id" : "103",
+		"address_line" : "174 Casimir Avenue",
+		"city" : "Dryden",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "P8N 2J1",
+		"latitude" : "49.77622043807853",
+		"longitude" : "-92.83284187316896"
+	},
+	{
+		"id" : "104",
+		"address_line" : "Hwy 17",
+		"city" : "Dryden",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "P8N 2X3",
+		"latitude" : "49.79384310814411",
+		"longitude" : "-92.84726142883301"
+	},
+	{
+		"id" : "105",
+		"address_line" : "216 Ontario St",
+		"city" : "Kingston",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "K7L 2Z3",
+		"latitude" : "44.2298",
+		"longitude" : "-76.4803"
+	},
+	{
+		"id" : "106",
+		"address_line" : "137 Stenton Ave",
+		"city" : "Blue Bell",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "19422",
+		"latitude" : "40.128774",
+		"longitude" : "-75.259206"
+	},
+	{
+		"id" : "107",
+		"address_line" : "166 Brock St",
+		"city" : "Kingston",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "K7L 5G2",
+		"latitude" : "44.23062509772773",
+		"longitude" : "-76.48604393005371"
+	},
+	{
+		"id" : "108",
+		"address_line" : "166 Brock St",
+		"city" : "Kingston",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "K7L 5G2",
+		"latitude" : "44.23062509772773",
+		"longitude" : "-76.48604393005371"
+	},
+	{
+		"id" : "109",
+		"address_line" : "270 King St E",
+		"city" : "Kingston",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "K7L 3B2",
+		"latitude" : "44.2293796905524",
+		"longitude" : "-76.48294329643251"
+	},
+	{
+		"id" : "11",
+		"address_line" : "25 Cooper Sq",
+		"city" : "New York",
+		"state" : "NY",
+		"country" : "USA",
+		"postal_code" : "10003",
+		"latitude" : "40.727820",
+		"longitude" : "-73.990770"
+	},
+	{
+		"id" : "110",
+		"address_line" : "261 Johnson St",
+		"city" : "Kingston",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "K7L 3J3",
+		"latitude" : "44.23119493959978",
+		"longitude" : "-76.48979571182282"
+	},
+	{
+		"id" : "111",
+		"address_line" : "Menchie s, 241 Princess St",
+		"city" : "Kingston",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "K7L 3M1",
+		"latitude" : "44.23247778433073",
+		"longitude" : "-76.48720264434816"
+	},
+	{
+		"id" : "112",
+		"address_line" : "81 Colborne St",
+		"city" : "Kingston",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "K7K 1C7",
+		"latitude" : "44.23443803237946",
+		"longitude" : "-76.49018526077272"
+	},
+	{
+		"id" : "113",
+		"address_line" : "48 7 Ave",
+		"city" : "Kingston",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "K7K 2M4",
+		"latitude" : "44.24726901762558",
+		"longitude" : "-76.5002956800163"
+	},
+	{
+		"id" : "114",
+		"address_line" : "48 7 Ave",
+		"city" : "Kingston",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "K7K 2M4",
+		"latitude" : "44.24726901762558",
+		"longitude" : "-76.5002956800163"
+	},
+	{
+		"id" : "115",
+		"address_line" : "136 Powley Street,",
+		"city" : "Orillia",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "L3V 2W3",
+		"latitude" : "44.6031",
+		"longitude" : "-79.423"
+	},
+	{
+		"id" : "116",
+		"address_line" : "255 Mississaga Street West,",
+		"city" : "Orillia",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "L3V 3E8",
+		"latitude" : "44.603790623044276",
+		"longitude" : "-79.4295644760132"
+	},
+	{
+		"id" : "117",
+		"address_line" : "5th Avenue East,",
+		"city" : "Brooks",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T1R 0W3",
+		"latitude" : "50.5704",
+		"longitude" : "-111.8925"
+	},
+	{
+		"id" : "118",
+		"address_line" : "415 4 Avenue East,",
+		"city" : "Brooks",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T1R 0G7",
+		"latitude" : "50.56756561473168",
+		"longitude" : "-111.89111709594728"
+	},
+	{
+		"id" : "119",
+		"address_line" : "879 3 Street W",
+		"city" : "Brooks",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T1R 1A9",
+		"latitude" : "50.576696309543614",
+		"longitude" : "-111.90060138702394"
+	},
+	{
+		"id" : "12",
+		"address_line" : "214 Franklin St",
+		"city" : "Brooklyn",
+		"state" : "NY",
+		"country" : "US",
+		"postal_code" : "11222",
+		"latitude" : "40.733070",
+		"longitude" : "-73.957840"
+	},
+	{
+		"id" : "120",
+		"address_line" : "276 Lake Stafford Dr E",
+		"city" : "Brooks",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T1R 0L7",
+		"latitude" : "50.57620575003491",
+		"longitude" : "-111.88347816467287"
+	},
+	{
+		"id" : "121",
+		"address_line" : "248 Upland Ave W",
+		"city" : "Brooks",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T1R 1K1",
+		"latitude" : "50.58623639921512",
+		"longitude" : "-111.9039883464575"
+	},
+	{
+		"id" : "122",
+		"address_line" : "520 W Skippack Pike",
+		"city" : "Blue Bell",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "19422",
+		"latitude" : "40.149623",
+		"longitude" : "-75.261804"
+	},
+	{
+		"id" : "123",
+		"address_line" : "901 Morris Rd",
+		"city" : "Blue Bell",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "19422",
+		"latitude" : "40.170576",
+		"longitude" : "-75.267219"
+	},
+	{
+		"id" : "124",
+		"address_line" : "241 Township Line Rd",
+		"city" : "North Wales",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "19454",
+		"latitude" : "40.189312",
+		"longitude" : "-75.286017"
+	},
+	{
+		"id" : "125",
+		"address_line" : "15 Douglas Crt W",
+		"city" : "Brooks",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T1R 1N2",
+		"latitude" : "50.56730090891538",
+		"longitude" : "-111.90973531454803"
+	},
+	{
+		"id" : "126",
+		"address_line" : "3011 Valley View Way",
+		"city" : "Lansdale",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "19446",
+		"latitude" : "40.215576",
+		"longitude" : "-75.329632"
+	},
+	{
+		"id" : "127",
+		"address_line" : "1343 Michael Way",
+		"city" : "Lansdale",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "19446",
+		"latitude" : "40.240673",
+		"longitude" : "-75.325415"
+	},
+	{
+		"id" : "128",
+		"address_line" : "707 Spring Ln",
+		"city" : "Lansdale",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "19446",
+		"latitude" : "40.261758",
+		"longitude" : "-75.338492"
+	},
+	{
+		"id" : "129",
+		"address_line" : "620 Mininger Rd",
+		"city" : "Souderton",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18964",
+		"latitude" : "40.279595",
+		"longitude" : "-75.3312"
+	},
+	{
+		"id" : "13",
+		"address_line" : "123 W 44th St",
+		"city" : "New York",
+		"state" : "NY",
+		"country" : "USA",
+		"postal_code" : "10036",
+		"latitude" : "40.756771",
+		"longitude" : "-73.984123"
+	},
+	{
+		"id" : "130",
+		"address_line" : "153 Cowpath Rd",
+		"city" : "Souderton",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18964",
+		"latitude" : "40.295621",
+		"longitude" : "-75.328845"
+	},
+	{
+		"id" : "131",
+		"address_line" : "309 Main St",
+		"city" : "Souderton",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18964",
+		"latitude" : "40.313106",
+		"longitude" : "-75.326853"
+	},
+	{
+		"id" : "132",
+		"address_line" : "5002 51 Avenue",
+		"city" : "Red Deer",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T4N 1Y1",
+		"latitude" : "52.2692",
+		"longitude" : "-113.8158"
+	},
+	{
+		"id" : "133",
+		"address_line" : "20 E Ridge Ave",
+		"city" : "Telford",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18969",
+		"latitude" : "40.328237",
+		"longitude" : "-75.331536"
+	},
+	{
+		"id" : "134",
+		"address_line" : "4702 47a Avenue",
+		"city" : "Red Deer",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T4N 3S9",
+		"latitude" : "52.26610883112088",
+		"longitude" : "-113.80702972412111"
+	},
+	{
+		"id" : "135",
+		"address_line" : "2495 County Line Rd",
+		"city" : "Telford",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18969",
+		"latitude" : "40.33863",
+		"longitude" : "-75.35034"
+	},
+	{
+		"id" : "136",
+		"address_line" : "6011 Taylor Drive",
+		"city" : "Red Deer",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T4P 1T1",
+		"latitude" : "52.27776850213206",
+		"longitude" : "-113.83698463439943"
+	},
+	{
+		"id" : "137",
+		"address_line" : "6011 Taylor Drive",
+		"city" : "Red Deer",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T4P 1T1",
+		"latitude" : "52.27776850213206",
+		"longitude" : "-113.83698463439943"
+	},
+	{
+		"id" : "138",
+		"address_line" : "291 Barndt Rd",
+		"city" : "Telford",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18969",
+		"latitude" : "40.33761",
+		"longitude" : "-75.386105"
+	},
+	{
+		"id" : "139",
+		"address_line" : "5929 48 Avenue",
+		"city" : "Red Deer",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T4P 3V5",
+		"latitude" : "52.27986901768716",
+		"longitude" : "-113.81114959716798"
+	},
+	{
+		"id" : "14",
+		"address_line" : "90 Bloor St E ",
+		"city" : "Toronto",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "M4W 1A7",
+		"latitude" : "43.670940",
+		"longitude" : "-79.383630"
+	},
+	{
+		"id" : "140",
+		"address_line" : "127 Wambold Rd",
+		"city" : "Green Lane",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18054",
+		"latitude" : "40.360822",
+		"longitude" : "-75.392837"
+	},
+	{
+		"id" : "141",
+		"address_line" : "1900 Twin Lows Rd",
+		"city" : "Green Lane",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18054",
+		"latitude" : "40.371783",
+		"longitude" : "-75.398538"
+	},
+	{
+		"id" : "142",
+		"address_line" : "4205 55 Street",
+		"city" : "Red Deer",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T4N 2H1",
+		"latitude" : "52.27461754212376",
+		"longitude" : "-113.79415512084962"
+	},
+	{
+		"id" : "143",
+		"address_line" : "1770 Trumbauersville Rd",
+		"city" : "Quakertown",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18951",
+		"latitude" : "40.394014",
+		"longitude" : "-75.421883"
+	},
+	{
+		"id" : "144",
+		"address_line" : "1620 Carvers Hill Rd",
+		"city" : "Pennsburg",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18073",
+		"latitude" : "40.390427",
+		"longitude" : "-75.429652"
+	},
+	{
+		"id" : "145",
+		"address_line" : "1595 Old Plains Rd",
+		"city" : "Pennsburg",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18073",
+		"latitude" : "40.40424",
+		"longitude" : "-75.448649"
+	},
+	{
+		"id" : "146",
+		"address_line" : "2463 Quakertown Rd",
+		"city" : "Pennsburg",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18073",
+		"latitude" : "40.411508",
+		"longitude" : "-75.48637"
+	},
+	{
+		"id" : "147",
+		"address_line" : "2291 Warner School Rd",
+		"city" : "East Greenville",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18041",
+		"latitude" : "40.4256",
+		"longitude" : "-75.505595"
+	},
+	{
+		"id" : "148",
+		"address_line" : "789 Gravel Pike",
+		"city" : "Palm",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18070",
+		"latitude" : "40.426382",
+		"longitude" : "-75.531322"
+	},
+	{
+		"id" : "149",
+		"address_line" : "8199 Chestnut St",
+		"city" : "Barto",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "19504",
+		"latitude" : "40.438329",
+		"longitude" : "-75.55771"
+	},
+	{
+		"id" : "15",
+		"address_line" : "120 W 44th St",
+		"city" : "New York",
+		"state" : "NY",
+		"country" : "US",
+		"postal_code" : "10036,",
+		"latitude" : "40.756390",
+		"longitude" : "-73.984337"
+	},
+	{
+		"id" : "150",
+		"address_line" : "3566 Seisholtzville Rd",
+		"city" : "Hereford",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18056",
+		"latitude" : "40.452359",
+		"longitude" : "-75.559963"
+	},
+	{
+		"id" : "151",
+		"address_line" : "5 Weaver Rd",
+		"city" : "Zionsville",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18092",
+		"latitude" : "40.465936",
+		"longitude" : "-75.574027"
+	},
+	{
+		"id" : "152",
+		"address_line" : "156 Weaver Rd",
+		"city" : "Macungie",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18062",
+		"latitude" : "40.473304",
+		"longitude" : "-75.579754"
+	},
+	{
+		"id" : "153",
+		"address_line" : "186 St Peters Rd",
+		"city" : "Macungie",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18062",
+		"latitude" : "40.477787",
+		"longitude" : "-75.594718"
+	},
+	{
+		"id" : "154",
+		"address_line" : "6329 58 Ave",
+		"city" : "Red Deer",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T4N 6T1",
+		"latitude" : "52.286074803086855",
+		"longitude" : "-113.82540922611953"
+	},
+	{
+		"id" : "155",
+		"address_line" : "20 Walker Rd",
+		"city" : "Macungie",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18062",
+		"latitude" : "40.484224",
+		"longitude" : "-75.599429"
+	},
+	{
+		"id" : "156",
+		"address_line" : "3941 Gun Club Rd",
+		"city" : "Alburtis",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18011",
+		"latitude" : "40.497426",
+		"longitude" : "-75.597449"
+	},
+	{
+		"id" : "157",
+		"address_line" : "4705 50 Avenue",
+		"city" : "Wetaskiwin",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9A 0R8",
+		"latitude" : "52.9684",
+		"longitude" : "-113.3668"
+	},
+	{
+		"id" : "158",
+		"address_line" : "452 S Oak St",
+		"city" : "Alburtis",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18011",
+		"latitude" : "40.504952",
+		"longitude" : "-75.604213"
+	},
+	{
+		"id" : "159",
+		"address_line" : "8240 Spring Creek Rd",
+		"city" : "Alburtis",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18011",
+		"latitude" : "40.524795",
+		"longitude" : "-75.606051"
+	},
+	{
+		"id" : "16",
+		"address_line" : "220 Bloor St W",
+		"city" : "Toronto",
+		"state" : "ON",
+		"country" : "CA",
+		"postal_code" : "M5S 1T8",
+		"latitude" : "43.667740",
+		"longitude" : "-79.398800"
+	},
+	{
+		"id" : "160",
+		"address_line" : "5315 51 Avenue",
+		"city" : "Wetaskiwin",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9A 0V8",
+		"latitude" : "52.9710766438079",
+		"longitude" : "-113.38251113891603"
+	},
+	{
+		"id" : "161",
+		"address_line" : "1799 Weilers Rd",
+		"city" : "Alburtis",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18011",
+		"latitude" : "40.53146",
+		"longitude" : "-75.611992"
+	},
+	{
+		"id" : "162",
+		"address_line" : "4019 47 Street",
+		"city" : "Wetaskiwin",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9A 2A1",
+		"latitude" : "52.9604791419908",
+		"longitude" : "-113.36620330810548"
+	},
+	{
+		"id" : "163",
+		"address_line" : "1061 Highgate Ave",
+		"city" : "Breinigsville",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18031",
+		"latitude" : "40.54727",
+		"longitude" : "-75.623806"
+	},
+	{
+		"id" : "164",
+		"address_line" : "137 Garwood Drive",
+		"city" : "Wetaskiwin",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9A 2Y8",
+		"latitude" : "52.9753666008273",
+		"longitude" : "-113.35358619689943"
+	},
+	{
+		"id" : "165",
+		"address_line" : "382 Grim Rd",
+		"city" : "Breinigsville",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18031",
+		"latitude" : "40.555872",
+		"longitude" : "-75.624715"
+	},
+	{
+		"id" : "166",
+		"address_line" : "8635 Haaf Rd",
+		"city" : "Fogelsville",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18051",
+		"latitude" : "40.584362",
+		"longitude" : "-75.64817"
+	},
+	{
+		"id" : "167",
+		"address_line" : "Leduc Public Library, 2 Alexandra Park",
+		"city" : "Leduc",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9E 0N5",
+		"latitude" : "53.2607",
+		"longitude" : "-113.55"
+	},
+	{
+		"id" : "168",
+		"address_line" : "2317 Packhouse Rd",
+		"city" : "Fogelsville",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18051",
+		"latitude" : "40.592838",
+		"longitude" : "-75.673501"
+	},
+	{
+		"id" : "169",
+		"address_line" : "4309 42b Avenue",
+		"city" : "Leduc",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9E 4R6",
+		"latitude" : "53.255509260200384",
+		"longitude" : "-113.53692054748537"
+	},
+	{
+		"id" : "17",
+		"address_line" : "6101 W Century Blvd",
+		"city" : "Los Angeles",
+		"state" : "CA",
+		"country" : "US",
+		"postal_code" : "90045",
+		"latitude" : "33.946310",
+		"longitude" : "-118.390830"
+	},
+	{
+		"id" : "170",
+		"address_line" : "8557 Claussville Rd",
+		"city" : "Fogelsville",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18051",
+		"latitude" : "40.60413",
+		"longitude" : "-75.678021"
+	},
+	{
+		"id" : "171",
+		"address_line" : "54 Birchmont Drive",
+		"city" : "Leduc",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9E 8S4",
+		"latitude" : "53.27127019153723",
+		"longitude" : "-113.573055267334"
+	},
+	{
+		"id" : "172",
+		"address_line" : "8471 Lyon Valley Rd",
+		"city" : "New Tripoli",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18066",
+		"latitude" : "40.610458",
+		"longitude" : "-75.690232"
+	},
+	{
+		"id" : "173",
+		"address_line" : "6207 50 Street",
+		"city" : "Leduc",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9E 7G9",
+		"latitude" : "53.276762050128966",
+		"longitude" : "-113.54876518249513"
+	},
+	{
+		"id" : "174",
+		"address_line" : "8132 Lyon Valley Rd",
+		"city" : "New Tripoli",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18066",
+		"latitude" : "40.616304",
+		"longitude" : "-75.682197"
+	},
+	{
+		"id" : "175",
+		"address_line" : "7852 Weisenberg Church Rd",
+		"city" : "New Tripoli",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18066",
+		"latitude" : "40.640206",
+		"longitude" : "-75.709901"
+	},
+	{
+		"id" : "176",
+		"address_line" : "6603 44 Street",
+		"city" : "Leduc",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9E 7E2",
+		"latitude" : "53.28181701589153",
+		"longitude" : "-113.53885173797609"
+	},
+	{
+		"id" : "177",
+		"address_line" : "6555 Madison St",
+		"city" : "New Tripoli",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18066",
+		"latitude" : "40.671792",
+		"longitude" : "-75.753947"
+	},
+	{
+		"id" : "178",
+		"address_line" : "3904 71 Avenue",
+		"city" : "Leduc",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9E 1E2",
+		"latitude" : "53.29025773236518",
+		"longitude" : "-113.53095531463624"
+	},
+	{
+		"id" : "179",
+		"address_line" : "7450 Allemaengel Rd",
+		"city" : "New Tripoli",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18066",
+		"latitude" : "40.677222",
+		"longitude" : "-75.76363"
+	},
+	{
+		"id" : "18",
+		"address_line" : "900 W Olympic Blvd",
+		"city" : "Los Angeles",
+		"state" : "CA",
+		"country" : "US",
+		"postal_code" : "90015",
+		"latitude" : "34.045920",
+		"longitude" : "-118.266830"
+	},
+	{
+		"id" : "180",
+		"address_line" : "7924 43 Street",
+		"city" : "Leduc",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9E 7E8",
+		"latitude" : "53.30080488073988",
+		"longitude" : "-113.53773174807431"
+	},
+	{
+		"id" : "181",
+		"address_line" : "6778 Mountain Rd",
+		"city" : "New Tripoli",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18066",
+		"latitude" : "40.708081",
+		"longitude" : "-75.760729"
+	},
+	{
+		"id" : "182",
+		"address_line" : "6309 Mountain Rd",
+		"city" : "New Tripoli",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18066",
+		"latitude" : "40.718987",
+		"longitude" : "-75.750899"
+	},
+	{
+		"id" : "183",
+		"address_line" : "1601 8 Avenue",
+		"city" : "Cold Lake",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9M 1A3",
+		"latitude" : "54.463403212022",
+		"longitude" : "-110.18415927886963"
+	},
+	{
+		"id" : "184",
+		"address_line" : "1668 Ben Salem Rd",
+		"city" : "Lehighton",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18235",
+		"latitude" : "40.771416",
+		"longitude" : "-75.774582"
+	},
+	{
+		"id" : "185",
+		"address_line" : "28th Street",
+		"city" : "Cold Lake",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9M 1E7",
+		"latitude" : "54.46572288045797",
+		"longitude" : "-110.21119594573976"
+	},
+	{
+		"id" : "186",
+		"address_line" : "432 Twin Hill Dr",
+		"city" : "Lehighton",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18235",
+		"latitude" : "40.790821",
+		"longitude" : "-75.791324"
+	},
+	{
+		"id" : "187",
+		"address_line" : "291 Breezewood Rd",
+		"city" : "Lehighton",
+		"state" : "PA",
+		"country" : "US",
+		"postal_code" : "18235",
+		"latitude" : "40.818389",
+		"longitude" : "-75.799516"
+	},
+	{
+		"id" : "188",
+		"address_line" : "213 18 Street",
+		"city" : "Cold Lake",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9M 0A3",
+		"latitude" : "54.46916472678987",
+		"longitude" : "-110.18424510955812"
+	},
+	{
+		"id" : "189",
+		"address_line" : "402 Lakewood Way",
+		"city" : "Cold Lake",
+		"state" : "AB",
+		"country" : "CA",
+		"postal_code" : "T9M 1G5",
+		"latitude" : "54.47452644673438",
+		"longitude" : "-110.20565986633302"
+	},
+	{
+		"id" : "190",
+		"address_line" : "41 E Catawissa St",
+		"city" : "Nesquehoning",
+		"state" : "Pennsylvania",
+		"country" : "United States",
+		"postal_code" : "18240",
+		"latitude" : "40.864585",
+		"longitude" : "-75.810116"
+	}
+]
